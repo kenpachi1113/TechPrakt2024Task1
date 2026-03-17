@@ -4,6 +4,10 @@ body {
     margin: 20px;
 }
 
+body {
+    background-color: lightgray;
+}
+
 h1 {
     color: #333;
 }
